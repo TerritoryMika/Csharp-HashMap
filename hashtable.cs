@@ -42,7 +42,7 @@ namespace Collection
 
         public HashTable()
         {
-            capacity = 50;
+            capacity = 50; // default = 50
             empty();
         }
 
@@ -265,7 +265,7 @@ namespace Collection
             return output;
         }
 
-        public Record[] values() 
+        public Record[] toArray() 
         {
             Record[] output = new Record[size()];
             int count = 0;
