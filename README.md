@@ -1,5 +1,5 @@
 ![structure](https://i.ibb.co/KbzzQVk/hadh.png)
-# C-HashMap
+# Csharp-HashMap
 C#'s Dictionary has no default null handle. Therefore, I implemented similar ideas from Java HashMap
 
 ## Method
